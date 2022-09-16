@@ -1,0 +1,37 @@
+h1 {
+    margin: 50px;
+    font-size: 50px;
+}
+
+nav, h2 {
+    color:darkslateblue;
+    font-size: 30px;
+    text-align:center
+}
+
+
+body {
+    background-color: rgb(228, 226, 220);
+    color: rgb(75, 75, 75);
+    max-width: 900px;
+    margin: auto;
+}
+
+p.blurb {
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+section.dojaimage {
+    text-align:center;
+}
+
+section ul,ol {
+    color: palevioletred;
+}
+
+
+footer {
+    margin: 20px;
+    text-align: center;
+}
