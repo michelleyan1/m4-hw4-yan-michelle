@@ -11,8 +11,8 @@ nav, h2 {
 
 
 body {
-    background-color: rgb(228, 226, 220);
-    color: rgb(75, 75, 75);
+    background-color: cornsilk;
+    color: rgb(57, 57, 57);
     max-width: 900px;
     margin: auto;
 }
@@ -27,7 +27,7 @@ section.dojaimage {
 }
 
 section ul,ol {
-    color: palevioletred;
+    color: #A80053;
 }
 
 footer {
